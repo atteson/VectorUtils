@@ -1,0 +1,4 @@
+name = "VectorUtils"
+uuid = "76fca8b0-2d58-474a-ad55-99fa5dd6034e"
+authors = ["Kevin Atteson <kevin@atteson.com>"]
+version = "0.1.0"
